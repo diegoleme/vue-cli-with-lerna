@@ -1,0 +1,17 @@
+{
+  "name": "simple-project",
+  "version": "0.0.0",
+  "description": "Simple project",
+  "author": "Diego Leme <diego@alice.com.br>",
+  "license": "ISC",
+  "main": "lib/simple-project.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
